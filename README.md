@@ -1,9 +1,9 @@
-Project_2_431
-Project #2 for CS431
-Team 10 -> Brandon Fischer, Kevin Ryan, Rebecca Ostrander
+Project_2_431 \
+Project #2 for CS431  
+Team 10 -> Brandon Fischer, Kevin Ryan, Rebecca Ostrander  
 
 Focused on the Curry programming language
-Includes:
+Includes:  
 ~ Installation of the language, preferable in WSL
 ~ Requirements for Install
 ~ Shortcomings of the CURRENT VERSION of the language
