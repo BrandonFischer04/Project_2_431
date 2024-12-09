@@ -1,5 +1,7 @@
 Author: Rebecca Ostrander, Brandon Fischer, Kevin Ryan
+
 Filename: RescourcesUsed.md
+
 Purpose: To have all the rescources used on one file so each file does not have external links. Giving credit where credit is due
 
 TEMPLATE - TO BE DELETED AT END
