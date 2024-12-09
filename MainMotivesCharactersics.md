@@ -15,6 +15,8 @@ From concurrent programming it takes; concurrent evaluation of constraints with 
   
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+  
 Typing Discipline(s):  
 The typing discipline of a language is defined by the nature of type constraints and the way they are evaluated and enforced. The typing discipline originates from practical issues of computer architecture, compiler implementation and language design.  
   
@@ -23,6 +25,8 @@ Strong typing usually means that the programming language specifies some restric
 This is one of the most controversial terms within typing domain, as is has no commonly agreed-upon meaning and different authors use it in different contexts (Strong typing is the opposite of weak typing).  
   
 "Curry is strongly typed but type annotations of functions need not be written by the programmer: they are automatically inferred by the compiler using a type inference algorithm. Nevertheless, it is a good style to write down the types of functions in order to provide at least a minimal documentation of the intended use of functions."  
+  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
   

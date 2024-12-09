@@ -3,12 +3,12 @@ Filename: RescourcesUsed.md
 Purpose: To have all the rescources used on one file so each file does not have external links. Giving credit where credit is due  
   
   
-1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
 Resource Name: Curry A Truly Integrated Functional Logic Programming Language  
 Resource URL: https://www.curry-language.org/  
 Filename Used In: MainMotivesCharacteristics.md  
 
-2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
 Resource Name: Curry A Tutorial Introduction  
 Resource URL: https://www.curry-language.org/docs/tutorial/tutorial.pdf  
 Filename Used In: MainMotivesCharacteristics.md  
