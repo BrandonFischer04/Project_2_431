@@ -1,11 +1,11 @@
-{- 
-  Word Search Program in Curry
-
-  This program reads a list of words from a file and allows the user to search 
+{-
+  Author: Kevin Ryan  
+  Filename: Wordseach.curry 
+  Purpose: A Word Search Program in Curry. This program reads a list of words from a file and allows the user to search 
   for words matching a given pattern. The pattern can include blanks ('_') 
   that match any letter. For example, entering the pattern 'se_' will find all 
   words starting with 'se' and followed by any single character.
-  -}
+-}
   
 import System.IO
 
