@@ -1,6 +1,6 @@
 Author: Rebecca Ostrander  
 Filename: MainMotivesCharacteristics.md  
-Purpose: to describe the Main Motives and Charactersics of the Curry language (including paradigms and typing disciplines)  
+Purpose: To describe the Main Motives and Charactersics of the Curry language (including paradigms and typing disciplines)  
   
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
   
